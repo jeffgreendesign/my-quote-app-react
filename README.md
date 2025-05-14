@@ -23,7 +23,7 @@ A simple web application built with React and Zustand for state management that 
 
 ## Live Demo
 
-[Link to Live Demo](https://zingy-treacle-5b7cb7.netlify.app/)
+[Link to Live Demo](https://brilliant-fenglisu-808afd.netlify.app/)
 
 ## Screenshot
 
